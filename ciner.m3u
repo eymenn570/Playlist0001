@@ -7,3 +7,5 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=8jcidoik09a9&app=
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8jcix9ibyd0h&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="ShowMax.tr@HD" tvg-name="ShowMax TV" group-title="Dizi" tvg-logo="https://www.showmax.com.tr/assets/dist/images/base/logo.svg", ShowMax
 https://ciner-live.ercdn.net/showmax/showmax_1080p.m3u8?e=1782688585&st=ZKTp6d9p-cAQi1ROD4crzw&tv=1
+#EXTINF:-1 tvg-id="ShowTurk.tr@HD" tvg-name="ShowTurk HD" group-title="Türk Dizileri" tvg-logo="https://www.showturk.com.tr/scripts/assets/dist/images/logo.svg", ShowTurk HD
+https://ciner-live.ercdn.net/showturk/showturk_1080p.m3u8?e=1782691164&st=ju6lpiKin3zsaSfH3AAIEA&tv=1
