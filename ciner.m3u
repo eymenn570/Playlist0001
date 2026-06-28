@@ -3,4 +3,5 @@
 https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=8jcgwscz3kez&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
 #EXTINF:-1 tvg-id="HTSpor.tr@HD" tvg-name="HT Spor HD" group-title="Spor" tvg-logo="https://im.haberturk.com/assets/laravel/images/common/sport/logo/ht-spor-white.svg", HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=8jcidoik09a9&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
-#E
+#EXTINF:-1 tvg-id="ShowTV.tr@HD" tvg-name="Show TV" group-title="Dizi-Ulusal" tvg-logo="https://www.showtv.com.tr/assets/v4/images/common/logo/svg/show-tv-logo.svg", Show TV (1080p)
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=8jcix9ibyd0h&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
