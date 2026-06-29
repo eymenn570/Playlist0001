@@ -9,3 +9,5 @@ https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782803525&st=18wqcOhF_fBg-lZWdR
 https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1782804156&st=PgC9td4FXST0RRZjIPEV5w&sid=8jfu3ughr099&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
 #EXTINF:-1 tvg-id="aHaber.tr@HD" tvg-name="a Haber" group-title="Haber" tvg-logo="https://st01.ahaber.com.tr/images/logo.png", a Haber
 https://trkvz.daioncdn.net/ahaber/ahaber_1080p.m3u8?e=1782804425&st=79rMJvu-S3ftyIZFLXA49Q&sid=8jfui6becsdk&app=2ec376df-4b14-464a-981a-6c44d909a777&ce=2
+#EXTINF:-1 tvg-id="aPara.tr@HD" tvg-name="a Para" group-title="Borsa-Ekomini" tvg-logo="https://i.tmgrup.com.tr/apara/site/v1/i/logo-apara-new.png", a Para
+https://trkvz-live.ercdn.net/aparahd/aparahd.m3u8?st=Ckhe2XWUjuf-dcXTDxlWww&e=1782804681
