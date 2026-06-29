@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="a2.tr@HD" tvg-name="a2 TV" group-title="Komedi" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png", a2 HD
 https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1782729538&st=JYmd7lMjzQFCnEb0ptef-A&sid=8jcr65lwoiu9&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
-#EXTINF:-1 tvg-id="aTVEuro.tr@SD" tvg-name="https://dengem.ch/wp-content/uploads/dengem-atv-de-konuk-600x375.png", aTV Euro
+#EXTINF:-1 tvg-id="aTVEuro.tr@SD" group-title="Avrupa-Ulusal" tvg-name="aTV Euro" tvg-logo="https://dengem.ch/wp-content/uploads/dengem-atv-de-konuk-600x375.png", aTV Euro
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=2oGDvDvPdMHcCq4CTSXlFQ&e=1782803089
+#EXTINF:-1 tvg-id="aTV.tr@HD" tvg-name="aTV" group-title="Ulusal" tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13362.png", aTV HD
+https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782803525&st=18wqcOhF_fBg-lZWdRN_5w&sid=8jft672pytii&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
