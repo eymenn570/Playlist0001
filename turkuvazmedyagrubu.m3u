@@ -5,3 +5,5 @@ https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1782729538&st=JYmd7lMjzQFCnEb0
 https://trkvz-live.ercdn.net/atvavrupa/atvavrupa.m3u8?st=2oGDvDvPdMHcCq4CTSXlFQ&e=1782803089
 #EXTINF:-1 tvg-id="aTV.tr@HD" tvg-name="aTV" group-title="Ulusal" tvg-logo="https://images.seeklogo.com/logo-png/1/2/atv-logo-png_seeklogo-13362.png", aTV HD
 https://trkvz.daioncdn.net/atv/atv_1080p.m3u8?e=1782803525&st=18wqcOhF_fBg-lZWdRN_5w&sid=8jft672pytii&app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0&ce=3
+#EXTINF:-1 tvg-id="aSpor.tr@HD" tvg-name="a Spor" group-title="Spor" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/a-spor-hd-buyuk.png", a Spor
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1782804156&st=PgC9td4FXST0RRZjIPEV5w&sid=8jfu3ughr099&app=b6bf3b55-0120-4e0f-983b-a6c7969f9ec6&ce=3
